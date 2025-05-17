@@ -4,7 +4,10 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.aospa.android.certifiedprops.overlay">
+    package="co.aospa.android.certifiedprops.overlay"
+    android:versionCode="250517"
+    android:versionName="2505.17">
+
     <application android:hasCode="false"/>
     <overlay android:targetPackage="android"/>
 </manifest>
